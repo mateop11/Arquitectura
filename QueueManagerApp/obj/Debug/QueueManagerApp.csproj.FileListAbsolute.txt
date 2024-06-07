@@ -1,0 +1,10 @@
+C:\Users\ASUS\Desktop\Progra\Clases\QueueManagerApp\bin\Debug\QueueManagerApp.exe.config
+C:\Users\ASUS\Desktop\Progra\Clases\QueueManagerApp\bin\Debug\QueueManagerApp.exe
+C:\Users\ASUS\Desktop\Progra\Clases\QueueManagerApp\bin\Debug\QueueManagerApp.pdb
+C:\Users\ASUS\Desktop\Progra\Clases\QueueManagerApp\bin\Debug\Experimental.System.Messaging.dll
+C:\Users\ASUS\Desktop\Progra\Clases\QueueManagerApp\bin\Debug\Experimental.System.Messaging.xml
+C:\Users\ASUS\Desktop\Progra\Clases\QueueManagerApp\obj\Debug\QueueManagerApp.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Progra\Clases\QueueManagerApp\obj\Debug\QueueManagerApp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Progra\Clases\QueueManagerApp\obj\Debug\QueueManagerApp.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Progra\Clases\QueueManagerApp\obj\Debug\QueueManagerApp.exe
+C:\Users\ASUS\Desktop\Progra\Clases\QueueManagerApp\obj\Debug\QueueManagerApp.pdb
